@@ -1,38 +1,49 @@
-[
-  {
-    "filename": "image1.jpg",
-    "title": "Changed!",
-    "caption": "Yeo!!!!",
-    "alt": 7257
+{
+  "config": {
+    "max_columns": 3
   },
-  {
-    "filename": "image2.jpg",
-    "title": "It's all new!",
-    "caption": "Aladdin",
-    "alt": 254
-  },
-  {
-    "filename": "image3.jpg",
-    "title": "Bananana",
-    "caption": "Banananan",
-    "alt": 37257
-  },
-  {
-    "filename": "image4.jpg",
-    "title": 236,
-    "caption": 2735,
-    "alt": 25
-  },
-  {
-    "filename": "image5.jpg",
-    "title": 735,
-    "caption": 2357,
-    "alt": 553
-  },
-  {
-    "filename": "image6.jpg",
-    "title": 7,
-    "caption": 732,
-    "alt": 23
-  }
-]
+  "photos": [
+    {
+      "filename": "image1.jpg",
+      "title": "",
+      "caption": "",
+      "alt": "",
+      "priority": 50
+    },
+    {
+      "filename": "image2.jpg",
+      "title": "",
+      "caption": "",
+      "alt": "",
+      "priority": 50
+    },
+    {
+      "filename": "image3.jpg",
+      "title": "",
+      "caption": "",
+      "alt": "",
+      "priority": 50
+    },
+    {
+      "filename": "image4.jpg",
+      "title": "",
+      "caption": "",
+      "alt": "",
+      "priority": 50
+    },
+    {
+      "filename": "image5.jpg",
+      "title": "",
+      "caption": "",
+      "alt": "",
+      "priority": 50
+    },
+    {
+      "filename": "image6.jpg",
+      "title": "",
+      "caption": "",
+      "alt": "",
+      "priority": 50
+    }
+  ]
+}
