@@ -1,5 +1,9 @@
 {
   "config": {
+    "github_user": "rmtbb",
+    "repo_name": "photogallerytest",
+    "branch": "main",
+    "folder_path": "images",
     "max_columns": 3
   },
   "photos": [
