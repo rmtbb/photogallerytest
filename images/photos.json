@@ -1,38 +1,38 @@
 [
   {
     "filename": "image1.jpg",
-    "title": "Golden Sunset",
-    "caption": "Sun setting behind the hills.",
-    "alt": "Sunset with orange sky over green hills"
+    "title": "Beauty Shot",
+    "caption": "What a magnificent photo!",
+    "alt": "blind?"
   },
   {
     "filename": "image2.jpg",
-    "title": "Urban Nights",
-    "caption": "A bustling cityscape at night.",
-    "alt": "City lights glowing under a night sky"
+    "title": "Famous Person",
+    "caption": "Wow!  Look who it is!",
+    "alt": "Can't see em?"
   },
   {
     "filename": "image3.jpg",
-    "title": "Misty Mountains",
-    "caption": "Peaceful morning hike through the mist.",
-    "alt": "Mountain range with misty clouds"
+    "title": "Beauty Shot",
+    "caption": "What a magnificent photo!",
+    "alt": ""
   },
   {
     "filename": "image4.jpg",
-    "title": "Wave Watch",
-    "caption": "Gentle waves on the shore.",
-    "alt": "Ocean waves washing up on a beach"
+    "title": "Famous Person",
+    "caption": "Wow!  Look who it is!",
+    "alt": ""
   },
   {
     "filename": "image5.jpg",
-    "title": "Forest Path",
-    "caption": "Winding trail through the woods.",
-    "alt": "Leafy path in a green forest"
+    "title": "Beauty Shot",
+    "caption": "What a magnificent photo!",
+    "alt": ""
   },
   {
     "filename": "image6.jpg",
-    "title": "Desert Dunes",
-    "caption": "Golden sand dunes under a clear sky.",
-    "alt": "Curved sand dunes in the desert"
+    "title": "Famous Person",
+    "caption": "Whaaaa",
+    "alt": ""
   }
 ]
