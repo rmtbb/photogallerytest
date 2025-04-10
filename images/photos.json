@@ -8,10 +8,24 @@
   },
   "photos": [
     {
-      "filename": "image1.jpg",
-      "title": "",
+      "filename": "image6.jpg",
+      "title": "First!",
       "caption": "",
       "alt": "",
+      "priority": 1
+    },
+    {
+      "filename": "image4.jpg",
+      "title": "Second!",
+      "caption": "",
+      "alt": "",
+      "priority": 2
+    },
+    {
+      "filename": "image1.jpg",
+      "title": "v24",
+      "caption": "b2",
+      "alt": "2b",
       "priority": 50
     },
     {
@@ -24,27 +38,13 @@
     {
       "filename": "image3.jpg",
       "title": "",
-      "caption": "",
-      "alt": "",
-      "priority": 50
-    },
-    {
-      "filename": "image4.jpg",
-      "title": "",
-      "caption": "",
-      "alt": "",
+      "caption": "b2",
+      "alt": "2b4",
       "priority": 50
     },
     {
       "filename": "image5.jpg",
-      "title": "",
-      "caption": "",
-      "alt": "",
-      "priority": 50
-    },
-    {
-      "filename": "image6.jpg",
-      "title": "",
+      "title": "24b",
       "caption": "",
       "alt": "",
       "priority": 50
