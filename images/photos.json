@@ -8,53 +8,53 @@
   },
   "photos": [
     {
-      "filename": "image6.jpg",
-      "title": "First!",
-      "caption": "",
-      "alt": "",
+      "filename": "image3.jpg",
+      "title": "Yiggy",
+      "caption": 5,
+      "alt": "2b4",
       "priority": 1
     },
     {
       "filename": "image4.jpg",
-      "title": "Second!",
-      "caption": "",
+      "title": 4545,
+      "caption": 54,
+      "alt": "",
+      "priority": 2
+    },
+    {
+      "filename": "image5.jpg",
+      "title": "Bendon",
+      "caption": 54,
       "alt": "",
       "priority": 2
     },
     {
       "filename": "ChatGPT Image Apr 9, 2025, 11_40_01 PM.png",
-      "title": "Beeeef",
-      "caption": "Chunk",
+      "title": 45,
+      "caption": 545,
       "alt": "",
       "priority": 50
     },
     {
       "filename": "image1.jpg",
-      "title": "v24",
-      "caption": "b2",
-      "alt": "2b",
+      "title": 4,
+      "caption": 4545,
+      "alt": 45,
       "priority": 50
     },
     {
       "filename": "image2.jpg",
       "title": "",
-      "caption": "",
+      "caption": 455,
       "alt": "",
       "priority": 50
     },
     {
-      "filename": "image3.jpg",
-      "title": "",
-      "caption": "b2",
-      "alt": "2b4",
-      "priority": 50
-    },
-    {
-      "filename": "image5.jpg",
-      "title": "24b",
-      "caption": "",
+      "filename": "image6.jpg",
+      "title": "Bobb",
+      "caption": "Yooooo",
       "alt": "",
-      "priority": 50
+      "priority": 100
     }
   ]
 }
